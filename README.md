@@ -12,7 +12,13 @@ PASSWORD=
 DB_NAME=
 TABLE=
 ```
-2ºPoner en la consola.
+2º Instalar las dependencias necesarias usando:
+ 
+ ```
+npm install
+```
+
+3ºPoner en la consola.
 ```
 npm run dev
 ```
