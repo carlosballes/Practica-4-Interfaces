@@ -29,4 +29,13 @@ npm install
  ```
 npm start
 ```
+### SI VEMOS EL ERROR : net::ERR_UNSAFE_PORT
+ Tendremos que añadir en nuestro navegador:
+
+  ```
+   --explicitly-allowed-ports=6000
+```
+#### Como añadirlo:
+ Click derecho en el enlace de nuestro navegador y accedemos a propiedades, en ellas iremos al campo destino y al final le añadiremos el comando anterior
+
  
