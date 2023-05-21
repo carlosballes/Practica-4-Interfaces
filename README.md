@@ -33,7 +33,7 @@ npm install
 2º Hacer funcionar el codigo usando:
  
  ```
-$sql="SELECT * FROM users WHERE username='$ admin’#’ AND password='$password'"
+npm start
 ```
 ### SI VEMOS EL ERROR : net::ERR_UNSAFE_PORT
  Tendremos que añadir en nuestro navegador:
